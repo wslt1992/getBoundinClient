@@ -1,0 +1,15 @@
+body{
+    height: 2000px;
+    width: 100%;
+    padding-top: 1000px;
+}
+
+div.box{
+    height: 200px;
+    width: 100%;
+    background-color: aqua;
+
+}
+img{
+    margin-left: 50%;
+}
